@@ -2,6 +2,7 @@
 1にょき
 
 typedef int 整数;
+整数　a=1;
 うっひょおおおおおお
 ==== インクルード部 ====
 #include<iostream>
@@ -14,5 +15,8 @@ typedef int 整数;
 8にょき
 9にょき
 10にょき
+にょろにょろetea
+ShiftJis
+UTF-8
 ▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲
 
