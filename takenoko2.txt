@@ -20,3 +20,5 @@ ShiftJis
 UTF-8
 ▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲
 
+typedef int 整数;
+整数 a = 10;
